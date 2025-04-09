@@ -38,7 +38,7 @@ reg64 = [
 compare = ['test', 'cmp']
 
 # system api key word
-api_key_word = ['kernel32', 'ntdll', 'msvcrt', 'kernelbase', 'user32', 'advapi32', 'ws2_32']
+api_key_word = ['kernel32', 'ntdll', 'msvcrt', 'kernelbase', 'user32', 'advapi32', 'ws2_32', 'combase', 'winhttp']
 
 # info make
 byte_wide = 0
