@@ -9,7 +9,7 @@ DVA can help you easily finish it.
 DVA可以帮助你轻松的完成这些任务。  
 
 ## Create function for call insn
-Hothey: Shift-F  
+Hotkey: Shift-F  
 Create func before:  
 ![](./picture/create_func_before.png)  
 
